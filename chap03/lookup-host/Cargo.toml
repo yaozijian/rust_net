@@ -1,0 +1,8 @@
+[package]
+name = "lookup-host"
+version = "0.1.0"
+authors = ["YaoZijian <yaozijian110@126.com>"]
+edition = "2018"
+
+[dependencies]
+dns-lookup="1.0.0"

@@ -1,8 +1,0 @@
-[workspace]
-members=[
-	"tcp_server",
-	"tcp_client",
-	"udp_server",
-	"udp_client",
-	"udp_multicast"
-]

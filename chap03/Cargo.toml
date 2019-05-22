@@ -1,0 +1,13 @@
+[workspace]
+members=[
+	"tcp_server",
+	"tcp_client",
+	"udp_server",
+	"udp_client",
+	"udp_multicast",
+	"ip-socket-addr",
+	"lookup-host",
+	"ipnet",
+	"pnet-demo",
+	"dns-demo"
+]
