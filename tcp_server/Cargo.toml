@@ -1,0 +1,9 @@
+[package]
+name = "tcp_server"
+version = "0.1.0"
+authors = ["YaoZijian <yaozijian110@126.com>"]
+edition = "2018"
+
+[dependencies]
+rand = "0.6.5"
+
