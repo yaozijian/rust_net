@@ -2,4 +2,5 @@
 members=[
 	"serde-basic",
 	"serde-server",
+	"serde-custom",
 ]
