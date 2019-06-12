@@ -1,0 +1,8 @@
+[package]
+name = "nom-http"
+version = "0.1.0"
+authors = ["YaoZijian <yaozijian110@126.com>"]
+edition = "2018"
+
+[dependencies]
+nom = { version="^4.2",features=["verbose-errors"]}
