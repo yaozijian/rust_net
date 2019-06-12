@@ -4,4 +4,5 @@ members=[
 	"serde-server",
 	"serde-custom",
 	"nom-http",
+	"pom-string",
 ]

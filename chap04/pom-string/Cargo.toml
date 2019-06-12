@@ -1,0 +1,8 @@
+[package]
+name = "pom-string"
+version = "0.1.0"
+authors = ["YaoZijian <yaozijian110@126.com>"]
+edition = "2018"
+
+[dependencies]
+pom = "3.0.2"
