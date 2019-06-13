@@ -37,6 +37,13 @@ dependencies = [
 ]
 
 [[package]]
+name = "nom-ipv6"
+version = "0.1.0"
+dependencies = [
+ "nom 4.2.3 (registry+https://github.com/rust-lang/crates.io-index)",
+]
+
+[[package]]
 name = "pom"
 version = "3.0.2"
 source = "registry+https://github.com/rust-lang/crates.io-index"

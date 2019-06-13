@@ -5,4 +5,5 @@ members=[
 	"serde-custom",
 	"nom-http",
 	"pom-string",
+	"nom-ipv6",
 ]
