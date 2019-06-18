@@ -1,0 +1,15 @@
+[package]
+name = "grpc_example"
+version = "0.1.0"
+authors = ["姚子建 <yaozijian110@126.com>"]
+edition = "2018"
+
+# See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
+
+[dependencies]
+protobuf = "2.6.2"
+grpc = "0.6.1"
+tls-api= "0.2.0"
+
+[build-dependencies]
+protoc-rust-grpc = "0.6.1"
